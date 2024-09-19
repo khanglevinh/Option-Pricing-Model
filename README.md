@@ -1,1 +1,1 @@
-Option Pricing Model with Python (Binomial Tree and Black - Scholes)
+# Option Pricing Model with Python (Binomial Tree and Black - Scholes)
