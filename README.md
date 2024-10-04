@@ -5,7 +5,7 @@ In this project, I focused on option pricing using two models: the Binomial Tree
 N increases towards infinity. This exploration provides insights into the effectiveness of the Binomial Tree model in approximating the values predicted by the Black-Scholes model for option pricing.  
 **2. Implementation**  
 First, I downloaded the AMD stock data from yfinance library, with start date = '2025 - 01 - 01'. Below is the AMD stock values over time: 
-![Alt text]((https://drive.google.com/file/d/1h8XbS85apdjRCSSSpfVBovWVFPDEnLQ-/view?usp=sharing))
+![]([relative url where images is located/refrence_image.png)](https://drive.google.com/file/d/1h8XbS85apdjRCSSSpfVBovWVFPDEnLQ-/view?usp=sharing)
 
 
 
